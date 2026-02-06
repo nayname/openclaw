@@ -1,5 +1,6 @@
 # 🦞 OpenClaw — Personal AI Assistant
 
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png">
